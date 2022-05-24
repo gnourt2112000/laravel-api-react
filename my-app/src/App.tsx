@@ -29,7 +29,7 @@ import ProtectedRoute from "./protectedRoute"
 export const App = () => {
   return (
   <ChakraProvider theme={theme}>
-    
+    hello
     <Box  fontSize="xl">
        
 
