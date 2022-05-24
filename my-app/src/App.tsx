@@ -31,6 +31,7 @@ export const App = () => {
   <ChakraProvider theme={theme}>
     hello
     Cocacola
+    Yasuo
     <Box  fontSize="xl">
        
 
